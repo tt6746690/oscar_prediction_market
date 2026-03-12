@@ -1,0 +1,5 @@
+{
+  "strategy_type": "expanding_window",
+  "min_train_years": 5,
+  "num_test_years": 1
+}

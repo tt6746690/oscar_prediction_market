@@ -1,0 +1,3492 @@
+{
+  "KXOSCARACTO": {
+    "KXOSCARACTO-25": [
+      {
+        "ticker": "KXOSCARACTO-25-AB",
+        "nominee": "Adrien Brody",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-25-CD",
+        "nominee": "Colman Domingo",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-25-DC",
+        "nominee": "Daniel Craig",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-25-JDW",
+        "nominee": "John David Washington",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-25-JP",
+        "nominee": "Joaquin Phoenix",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-25-PM",
+        "nominee": "Paul Mescal",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-25-RF",
+        "nominee": "Ralph Fiennes",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-25-SS",
+        "nominee": "Sebastian Stan",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-25-TC",
+        "nominee": "Timothee Chalamet",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-25-TIE",
+        "nominee": "Tie",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARACTO-26": [
+      {
+        "ticker": "KXOSCARACTO-26-BRE",
+        "nominee": "Brendan Fraser",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-CHA",
+        "nominee": "Channing Tatum",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-COL",
+        "nominee": "Colin Farrell",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-DAN",
+        "nominee": "Daniel Day-Lewis",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-DWA",
+        "nominee": "Dwayne Johnson",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-ETH",
+        "nominee": "Ethan Hawke",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-GEO",
+        "nominee": "George Clooney",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-HUG",
+        "nominee": "Hugh Jackman",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-JER",
+        "nominee": "Jeremy Allen White",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-JES",
+        "nominee": "Jesse Plemons",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-LEO",
+        "nominee": "Leonardo DiCaprio",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-MIC",
+        "nominee": "Michael B. Jordan",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-PAU",
+        "nominee": "Paul Mescal",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-TIM",
+        "nominee": "Timothee Chalamet",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARACTO-26-WAG",
+        "nominee": "Wagner Moura",
+        "status": "active"
+      }
+    ],
+    "OSCARACTO-22": [
+      {
+        "ticker": "OSCARACTO-22-AG",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-22-BC",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-22-DW",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-22-JB",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-22-WS",
+        "nominee": "{}",
+        "status": "finalized"
+      }
+    ],
+    "OSCARACTO-23": [
+      {
+        "ticker": "OSCARACTO-23-AB",
+        "nominee": "Austin Butler",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-23-BF",
+        "nominee": "Brendan Fraser",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-23-BN",
+        "nominee": "Bill Nighy",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-23-CF",
+        "nominee": "Colin Farrell",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-23-PM",
+        "nominee": "Paul Mescal",
+        "status": "finalized"
+      }
+    ],
+    "OSCARACTO-24": [
+      {
+        "ticker": "OSCARACTO-24-AS",
+        "nominee": "Andrew Scott",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-24-BC",
+        "nominee": "Bradley Cooper",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-24-BK",
+        "nominee": "Barry Keoghan",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-24-CD",
+        "nominee": "Colman Domingo",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-24-CM",
+        "nominee": "Cillian Murphy",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-24-JP",
+        "nominee": "Joaquin Phoenix",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-24-JW",
+        "nominee": "Jeffrey Wright",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-24-LD",
+        "nominee": "Leonardo DiCaprio",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-24-NC",
+        "nominee": "Nicolas Cage",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTO-24-PG",
+        "nominee": "Paul Giamatti",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCARACTR": {
+    "KXOSCARACTR-25": [
+      {
+        "ticker": "KXOSCARACTR-25-AA",
+        "nominee": "Amy Adams",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-25-AJ",
+        "nominee": "Angelina Jolie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-25-CE",
+        "nominee": "Cynthia Erivo",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-25-DM",
+        "nominee": "Demi Moore",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-25-FT",
+        "nominee": "Fernanda Torres",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-25-JS",
+        "nominee": "June Squibb",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-25-KSG",
+        "nominee": "Karla Sofia Gascon",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-25-MJB",
+        "nominee": "Marianne Jean-Baptiste",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-25-MM",
+        "nominee": "Mikey Madison",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-25-NK",
+        "nominee": "Nicole Kidman",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-25-SR",
+        "nominee": "Saoirse Ronan",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-25-TIE",
+        "nominee": "Tie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-25-TS",
+        "nominee": "Tilda Swinton",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARACTR-26": [
+      {
+        "ticker": "KXOSCARACTR-26-CAT",
+        "nominee": "Cate Blanchett",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-CYN",
+        "nominee": "Cynthia Erivo",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-EMI",
+        "nominee": "Emily Blunt",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-EMM",
+        "nominee": "Emma Stone",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-EVA",
+        "nominee": "Eva Victor",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-JEN",
+        "nominee": "Jennifer Lawrence",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-JES",
+        "nominee": "Jessie Buckley",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-JUL",
+        "nominee": "Julia Roberts",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-JUN",
+        "nominee": "June Squibb",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-KAT",
+        "nominee": "Kate Hudson",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-LAU",
+        "nominee": "Laura Dern",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-REN",
+        "nominee": "Renate Reinsve",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-ROS",
+        "nominee": "Rose Byrne",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-SYD",
+        "nominee": "Sydney Sweeney",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-TES",
+        "nominee": "Tessa Thompson",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARACTR-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      }
+    ],
+    "OSCARACTR-22": [
+      {
+        "ticker": "OSCARACTR-22-JC",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-22-KS",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-22-NK",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-22-OC",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-22-PC",
+        "nominee": "{}",
+        "status": "finalized"
+      }
+    ],
+    "OSCARACTR-23": [
+      {
+        "ticker": "OSCARACTR-23-ADA",
+        "nominee": "Ana de Armas",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-23-AR",
+        "nominee": "Andrea Riseborough",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-23-CB",
+        "nominee": "Cate Blanchett",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-23-MW",
+        "nominee": "Michelle Williams",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-23-MY",
+        "nominee": "Michelle Yeoh",
+        "status": "finalized"
+      }
+    ],
+    "OSCARACTR-24": [
+      {
+        "ticker": "OSCARACTR-24-AB",
+        "nominee": "Annette Bening",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-24-CM",
+        "nominee": "Carey Mulligan",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-24-CS",
+        "nominee": "Cailee Spaeny (Priscilla)",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-24-ES",
+        "nominee": "Emma Stone",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-24-FB",
+        "nominee": "Fantasia Barrino",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-24-GL",
+        "nominee": "Greta Lee",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-24-LG",
+        "nominee": "Lily Gladstone",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-24-MR",
+        "nominee": "Margot Robbie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-24-NP",
+        "nominee": "Natalie Portman",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARACTR-24-SH",
+        "nominee": "Sandra H\u00fcller",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCARASPLAY": {
+    "KXOSCARASPLAY-25": [
+      {
+        "ticker": "KXOSCARASPLAY-25-ACU",
+        "nominee": "A Complete Unknown",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-25-C",
+        "nominee": "Conclave",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-25-D",
+        "nominee": "Dune: Part Two",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-25-EP",
+        "nominee": "Emilia Perez",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-25-G",
+        "nominee": "Gladiator II",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-25-N",
+        "nominee": "Nightbitch",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-25-NB",
+        "nominee": "Nickel Boys",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-25-Q",
+        "nominee": "Queer",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-25-SS",
+        "nominee": "Sing Sing",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-25-TIE",
+        "nominee": "Tie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-25-TPL",
+        "nominee": "The Piano Lesson",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-25-TRND",
+        "nominee": "The Room Next Door",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-25-TWR",
+        "nominee": "The Wild Robot",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARASPLAY-26": [
+      {
+        "ticker": "KXOSCARASPLAY-26-BAL",
+        "nominee": "Ballad of a Small Player",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-BUG",
+        "nominee": "Bugonia",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-FRA",
+        "nominee": "Frankenstein",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-HAM",
+        "nominee": "Hamnet",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-HED",
+        "nominee": "Hedda",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-IST",
+        "nominee": "Is This Thing On?",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-LIF",
+        "nominee": "The Life of Chuck",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-NOO",
+        "nominee": "No Other Choice",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-NOU",
+        "nominee": "Nouvelle Vague",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-NUR",
+        "nominee": "Nuremberg",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-ONE",
+        "nominee": "One Battle After Another",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-SPR",
+        "nominee": "Springsteen: Deliver Me from Nowhere",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-TRA",
+        "nominee": "Train Dreams",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-WAK",
+        "nominee": "Wake Up Dead Man",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARASPLAY-26-WIC",
+        "nominee": "Wicked: For Good",
+        "status": "finalized"
+      }
+    ],
+    "OSCARASPLAY": [
+      {
+        "ticker": "OSCARASPLAY-23-ALL",
+        "nominee": "All Quiet on the Western Front",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-23-GLASS",
+        "nominee": "Glass Onion: A Knives Out Mystery",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-23-LIVING",
+        "nominee": "Living",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-23-TOP",
+        "nominee": "Top Gun: Maverick",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-23-WOMEN",
+        "nominee": "Women Talking",
+        "status": "finalized"
+      }
+    ],
+    "OSCARASPLAY-22": [
+      {
+        "ticker": "OSCARASPLAY-22-CODA",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-22-DOG",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-22-DRIVE",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-22-DUNE",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-22-LOST",
+        "nominee": "{}",
+        "status": "finalized"
+      }
+    ],
+    "OSCARASPLAY-24": [
+      {
+        "ticker": "OSCARASPLAY-24-AF",
+        "nominee": "American Fiction",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-24-AOUS",
+        "nominee": "All of Us Strangers",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-24-AYTG",
+        "nominee": "Are You There God? It's Me, Margaret",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-24-B",
+        "nominee": "Barbie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-24-DM",
+        "nominee": "Dumb Money",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-24-KOTFM",
+        "nominee": "Killers of the Flower Moon",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-24-O",
+        "nominee": "Oppenheimer",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-24-PT",
+        "nominee": "Poor Things",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-24-SM",
+        "nominee": "Spider-Man: Across the Spider-Verse",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-24-TB",
+        "nominee": "The Bikeriders",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-24-TCP",
+        "nominee": "The Color Purple",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-24-TK",
+        "nominee": "The Killer",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARASPLAY-24-TZOI",
+        "nominee": "The Zone of Interest",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCARANIMATED": {
+    "KXOSCARANIMATED-25": [
+      {
+        "ticker": "KXOSCARANIMATED-25-F",
+        "nominee": "Flow",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARANIMATED-25-IO2",
+        "nominee": "Inside Out 2",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARANIMATED-25-LOTR",
+        "nominee": "Lord of the Rings: The War of the Rohirrim",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARANIMATED-25-M2",
+        "nominee": "Moana 2",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARANIMATED-25-MOAS",
+        "nominee": "Memoir of a Snail",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARANIMATED-25-PBP",
+        "nominee": "Piece by Piece",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARANIMATED-25-TIE",
+        "nominee": "Tie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARANIMATED-25-TWR",
+        "nominee": "The Wild Robot",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARANIMATED-25-WAG",
+        "nominee": "Wallace and Gromit: Vengeance Most Fowl",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARANIMATED-26B": [
+      {
+        "ticker": "KXOSCARANIMATED-26B-ARC",
+        "nominee": "Arco",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARANIMATED-26B-ELI",
+        "nominee": "Elio",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARANIMATED-26B-INY",
+        "nominee": "In Your Dreams",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARANIMATED-26B-KPO",
+        "nominee": "KPop Demon Hunters",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARANIMATED-26B-LIT",
+        "nominee": "Little Am\u00e9lie or the Character of Rain",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARANIMATED-26B-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARANIMATED-26B-ZOO",
+        "nominee": "Zootopia 2",
+        "status": "active"
+      }
+    ],
+    "OSCARANIMATED-24": [
+      {
+        "ticker": "OSCARANIMATED-24-E",
+        "nominee": "Elemental",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARANIMATED-24-N",
+        "nominee": "Nimona",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARANIMATED-24-RD",
+        "nominee": "Robot Dreams",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARANIMATED-24-SM",
+        "nominee": "Spider-Man: Across the Spider-Verse",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARANIMATED-24-TBATH",
+        "nominee": "The Boy and the Heron",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCARCINE": {
+    "KXOSCARCINE-25": [
+      {
+        "ticker": "KXOSCARCINE-25-C",
+        "nominee": "Conclave",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-25-DP2",
+        "nominee": "Dune: Part Two",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-25-EP",
+        "nominee": "Emilia Perez",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-25-G2",
+        "nominee": "Gladiator II",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-25-M",
+        "nominee": "Maria",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-25-N",
+        "nominee": "Nosferatu",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-25-NB",
+        "nominee": "Nickel Boys",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-25-T",
+        "nominee": "Tie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-25-TB",
+        "nominee": "The Brutalist",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-25-W",
+        "nominee": "Wicked",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARCINE-26": [
+      {
+        "ticker": "KXOSCARCINE-26-28Y",
+        "nominee": "28 Years Later",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-ANE",
+        "nominee": "Anemone",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-AVA",
+        "nominee": "Avatar: Fire and Ash",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-BAL",
+        "nominee": "Ballad of a Small Player",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-BUG",
+        "nominee": "Bugonia",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-F1T",
+        "nominee": "F1: The Movie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-FRA",
+        "nominee": "Frankenstein",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-HAM",
+        "nominee": "Hamnet",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-MAR",
+        "nominee": "Marty Supreme",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-NOO",
+        "nominee": "No Other Choice",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-NOU",
+        "nominee": "Nouvelle Vague",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-ONE",
+        "nominee": "One Battle After Another",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-SIN",
+        "nominee": "Sinners",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-TRA",
+        "nominee": "Train Dreams",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARCINE-26-WIC",
+        "nominee": "Wicked: For Good",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCARCOSTUME": {
+    "KXOSCARCOSTUME-25": [
+      {
+        "ticker": "KXOSCARCOSTUME-25-ACU",
+        "nominee": "A Complete Unknown",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-25-B",
+        "nominee": "Blitz",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-25-BB",
+        "nominee": "Beetlejuice Beetlejuice",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-25-C",
+        "nominee": "Conclave",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-25-D",
+        "nominee": "Dune: Part Two",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-25-EP",
+        "nominee": "Emilia Perez",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-25-G",
+        "nominee": "Gladiator II",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-25-M",
+        "nominee": "Maria",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-25-N",
+        "nominee": "Nosferatu",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-25-TB",
+        "nominee": "The Brutalist",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-25-TIE",
+        "nominee": "Tie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-25-W",
+        "nominee": "Wicked",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARCOSTUME-26": [
+      {
+        "ticker": "KXOSCARCOSTUME-26-AVA",
+        "nominee": "Avatar: Fire and Ash",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-BUG",
+        "nominee": "Bugonia",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-DOW",
+        "nominee": "Downton Abbey: The Grand Finale",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-FAN",
+        "nominee": "The Fantastic Four: First Steps",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-FRA",
+        "nominee": "Frankenstein",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-HAM",
+        "nominee": "Hamnet",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-HED",
+        "nominee": "Hedda",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-KIS",
+        "nominee": "Kiss of the Spider Woman",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-MAR",
+        "nominee": "Marty Supreme",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-NOU",
+        "nominee": "Nouvelle Vague",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-ONE",
+        "nominee": "One Battle After Another",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-PHO",
+        "nominee": "The Phoenician Scheme",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-SIN",
+        "nominee": "Sinners",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-SNO",
+        "nominee": "Snow White",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-SPR",
+        "nominee": "Springsteen: Deliver Me from Nowhere",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARCOSTUME-26-WIC",
+        "nominee": "Wicked: For Good",
+        "status": "finalized"
+      }
+    ],
+    "OSCARCOSTUME-24": [
+      {
+        "ticker": "OSCARCOSTUME-24-B",
+        "nominee": "Barbie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARCOSTUME-24-KOTFM",
+        "nominee": "Killers of the Flower Moon",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARCOSTUME-24-N",
+        "nominee": "Napoleon",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARCOSTUME-24-O",
+        "nominee": "Oppenheimer",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARCOSTUME-24-PT",
+        "nominee": "Poor Things",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCARDIR": {
+    "KXOSCARDIR-25": [
+      {
+        "ticker": "KXOSCARDIR-25-BC",
+        "nominee": "Brady Corbet",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-25-CF",
+        "nominee": "Coralie Fargeat",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-25-DV",
+        "nominee": "Denis Villeneuve",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-25-EB",
+        "nominee": "Edward Berger",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-25-GK",
+        "nominee": "Greg Kwedar",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-25-JA",
+        "nominee": "Jacques Audiard",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-25-JM",
+        "nominee": "James Mangold",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-25-MR",
+        "nominee": "Mohammad Rasoulof",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-25-PA",
+        "nominee": "Pedro Almodovar",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-25-RR",
+        "nominee": "RaMell Ross",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-25-RS",
+        "nominee": "Ridley Scott",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-25-SB",
+        "nominee": "Sean Baker",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-25-SM",
+        "nominee": "Steve McQueen",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-25-TIE",
+        "nominee": "Tie",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARDIR-26": [
+      {
+        "ticker": "KXOSCARDIR-26-BEN",
+        "nominee": "Benny Safdie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-CHL",
+        "nominee": "Chloe Zhao",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-DER",
+        "nominee": "Derek Cianfrance",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-GUI",
+        "nominee": "Guillermo Del Toro",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-HIK",
+        "nominee": "Hikari",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-JAF",
+        "nominee": "Jafar Panahi",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-JOA",
+        "nominee": "Joachim Trier",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-JON",
+        "nominee": "Jon M. Chu",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-JOS",
+        "nominee": "Josh Safdie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-KAT",
+        "nominee": "Kathryn Bigelow",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-KLE",
+        "nominee": "Kleber Mendonca Filho",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-PAR",
+        "nominee": "Park Chan-wook",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-PAU",
+        "nominee": "Paul Thomas Anderson",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-RYA",
+        "nominee": "Ryan Coogler",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARDIR-26-YOR",
+        "nominee": "Yorgos Lanthimos",
+        "status": "finalized"
+      }
+    ],
+    "OSCARDIR-22": [
+      {
+        "ticker": "OSCARDIR-22-JC",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-22-KB",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-22-PT",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-22-RH",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-22-SS",
+        "nominee": "{}",
+        "status": "finalized"
+      }
+    ],
+    "OSCARDIR-23": [
+      {
+        "ticker": "OSCARDIR-23-DKDS",
+        "nominee": "Daniel Kwan and Daniel Scheinert",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-23-MM",
+        "nominee": "Martin McDonagh",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-23-RO",
+        "nominee": "Ruben \u00d6stlund",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-23-SS",
+        "nominee": "Steven Spielberg",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-23-TF",
+        "nominee": "Todd Field",
+        "status": "finalized"
+      }
+    ],
+    "OSCARDIR-24": [
+      {
+        "ticker": "OSCARDIR-24-AP",
+        "nominee": "Alexander Payne",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-24-BC",
+        "nominee": "Bradley Cooper",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-24-CJ",
+        "nominee": "Cord Jefferson",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-24-CN",
+        "nominee": "Christopher Nolan",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-24-CS",
+        "nominee": "Celine Song",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-24-EF",
+        "nominee": "Emerald Fennell",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-24-GG",
+        "nominee": "Greta Gerweig",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-24-JG",
+        "nominee": "Jonathan Glazer",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-24-JT",
+        "nominee": "Justine Triet",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-24-MM",
+        "nominee": "Michael Mann",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-24-MS",
+        "nominee": "Martin Scorsese",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARDIR-24-YL",
+        "nominee": "Yorgos Lanthimos",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCAREDIT": {
+    "KXOSCAREDIT-25": [
+      {
+        "ticker": "KXOSCAREDIT-25-A",
+        "nominee": "Anora",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-25-C",
+        "nominee": "Conclave",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-25-EP",
+        "nominee": "Emilia P\u00e9rez",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-25-T",
+        "nominee": "Tie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-25-TB",
+        "nominee": "The Brutalist",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-25-W",
+        "nominee": "Wicked",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCAREDIT-26": [
+      {
+        "ticker": "KXOSCAREDIT-26-AVA",
+        "nominee": "Avatar: Fire and Ash",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-BUG",
+        "nominee": "Bugonia",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-F1T",
+        "nominee": "F1: The Movie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-FRA",
+        "nominee": "Frankenstein",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-HAM",
+        "nominee": "Hamnet",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-HOU",
+        "nominee": "A House of Dynamite",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-ITW",
+        "nominee": "It Was Just an Accident",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-MAR",
+        "nominee": "Marty Supreme",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-NOO",
+        "nominee": "No Other Choice",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-ONE",
+        "nominee": "One Battle After Another",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-PER",
+        "nominee": "The Perfect Neighbor",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-SEN",
+        "nominee": "Sentimental Value",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-SIN",
+        "nominee": "Sinners",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-SMA",
+        "nominee": "The Smashing Machine",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-SPR",
+        "nominee": "Springsteen: Deliver Me from Nowhere",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCAREDIT-26-WIC",
+        "nominee": "Wicked: For Good",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCARINTLFILM": {
+    "KXOSCARINTLFILM-25": [
+      {
+        "ticker": "KXOSCARINTLFILM-25-EP",
+        "nominee": "Emilia Perez",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-25-F",
+        "nominee": "Flow",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-25-ISH",
+        "nominee": "I'm Still Here",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-25-K",
+        "nominee": "Kneecap",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-25-T",
+        "nominee": "Tie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-25-TGWTN",
+        "nominee": "The Girl With The Needle",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-25-TSOTSF",
+        "nominee": "The Seed of the Sacred Fig",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARINTLFILM-26": [
+      {
+        "ticker": "KXOSCARINTLFILM-26-ALL",
+        "nominee": "All That\u2019s Left of You",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-BEL",
+        "nominee": "Bel\u00e9n",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-HOM",
+        "nominee": "Homebound",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-ITW",
+        "nominee": "It Was Just an Accident",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-KOK",
+        "nominee": "Kokuho",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-LAT",
+        "nominee": "Late Shift",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-LEF",
+        "nominee": "Left-Handed Girl",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-NOO",
+        "nominee": "No Other Choice",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-PAL",
+        "nominee": "Palestine 36",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-PRE",
+        "nominee": "The President\u2019s Cake",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-SEC",
+        "nominee": "The Secret Agent",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-SEN",
+        "nominee": "Sentimental Value",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-SIR",
+        "nominee": "Sir\u00e2t",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-SOU",
+        "nominee": "Sound of Falling",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARINTLFILM-26-VOI",
+        "nominee": "The Voice of Hind Rajab",
+        "status": "active"
+      }
+    ]
+  },
+  "KXOSCARSCORE": {
+    "KXOSCARSCORE-25": [
+      {
+        "ticker": "KXOSCARSCORE-25-C",
+        "nominee": "Conclave",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-25-EP",
+        "nominee": "Emilia Perez",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-25-T",
+        "nominee": "Tie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-25-TB",
+        "nominee": "The Brutalist",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-25-TWR",
+        "nominee": "The Wild Robot",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-25-W",
+        "nominee": "Wicked",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARSCORE-26": [
+      {
+        "ticker": "KXOSCARSCORE-26-AVA",
+        "nominee": "Avatar: Fire and Ash",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-BUG",
+        "nominee": "Bugonia",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-CAP",
+        "nominee": "Captain America: Brave New World",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-DIA",
+        "nominee": "Diane Warren: Relentless",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-F1",
+        "nominee": "F1",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-FRA",
+        "nominee": "Frankenstein",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-HAM",
+        "nominee": "Hamnet",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-HED",
+        "nominee": "Hedda",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-HOU",
+        "nominee": "A House of Dynamite",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-JAY",
+        "nominee": "Jay Kelly",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-MAR",
+        "nominee": "Marty Supreme",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-NUR",
+        "nominee": "Nuremberg",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-ONE",
+        "nominee": "One Battle after Another",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-SIN",
+        "nominee": "Sinners",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-SIR",
+        "nominee": "Sir\u00e2t",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-TRA",
+        "nominee": "Train Dreams",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-TRO",
+        "nominee": "Tron: Ares",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-TRU",
+        "nominee": "Truth and Treason",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-WAK",
+        "nominee": "Wake Up Dead Man: A Knives Out Mystery",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSCORE-26-WIC",
+        "nominee": "Wicked: For Good",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCARSPLAY": {
+    "KXOSCARSPLAY-25": [
+      {
+        "ticker": "KXOSCARSPLAY-25-A",
+        "nominee": "Anora",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-25-ARP",
+        "nominee": "A Real Pain",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-25-B",
+        "nominee": "Blitz",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-25-C",
+        "nominee": "Challengers",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-25-HT",
+        "nominee": "Hard Truths",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-25-S5",
+        "nominee": "September 5",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-25-SN",
+        "nominee": "Saturday Night",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-25-TB",
+        "nominee": "The Brutalist",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-25-TIE",
+        "nominee": "Tie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-25-TS",
+        "nominee": "The Substance",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-25-TSOTSF",
+        "nominee": "The Seed of the Sacred Fig",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARSPLAY-26": [
+      {
+        "ticker": "KXOSCARSPLAY-26-AFT",
+        "nominee": "After the Hunt",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-BLU",
+        "nominee": "Blue Moon",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-FAT",
+        "nominee": "Father, Mother, Sister, Brother",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-HOU",
+        "nominee": "A House of Dynamite",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-IFI",
+        "nominee": "If I Had Legs I'd Kick You",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-ITW",
+        "nominee": "It Was Just an Accident",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-JAY",
+        "nominee": "Jay Kelly",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-MAR",
+        "nominee": "Marty Supreme",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-REN",
+        "nominee": "Rental Family",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-ROO",
+        "nominee": "Roofman",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-SEC",
+        "nominee": "The Secret Agent",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-SEN",
+        "nominee": "Sentimental Value",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-SIN",
+        "nominee": "Sinners",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-SMA",
+        "nominee": "The Smashing Machine",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-SOR",
+        "nominee": "Sorry, Baby",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSPLAY-26-WEA",
+        "nominee": "Weapons",
+        "status": "finalized"
+      }
+    ],
+    "OSCARSPLAY-22": [
+      {
+        "ticker": "OSCARSPLAY-22-BFAST",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-22-DONT",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-22-KING",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-22-PIZZA",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-22-WORST",
+        "nominee": "{}",
+        "status": "finalized"
+      }
+    ],
+    "OSCARSPLAY-23": [
+      {
+        "ticker": "OSCARSPLAY-23-BANSHEES",
+        "nominee": "The Banshees of Inisherin",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-23-EVERYTHING",
+        "nominee": "Everything Everywhere All At Once",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-23-FABELMANS",
+        "nominee": "The Fabelmans",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-23-TAR",
+        "nominee": "T\u00e1r",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-23-TRIANGLE",
+        "nominee": "Triangle of Sadness",
+        "status": "finalized"
+      }
+    ],
+    "OSCARSPLAY-24": [
+      {
+        "ticker": "OSCARSPLAY-24-A",
+        "nominee": "Air",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-24-AOAF",
+        "nominee": "Anatomy of a Fall",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-24-B",
+        "nominee": "Barbie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-24-M",
+        "nominee": "Maestro",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-24-MD",
+        "nominee": "May December",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-24-N",
+        "nominee": "Napoleon",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-24-PL",
+        "nominee": "Past Lives",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-24-R",
+        "nominee": "Rustin",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-24-S",
+        "nominee": "Saltburn",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSPLAY-24-TH",
+        "nominee": "The Holdovers",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCARSONG": {
+    "KXOSCARSONG-25": [
+      {
+        "ticker": "KXOSCARSONG-25-EM",
+        "nominee": "El Mal",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-25-FR",
+        "nominee": "Forbidden Road",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-25-HAWGW",
+        "nominee": "Harper and Will Go West",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-25-IAWAB",
+        "nominee": "I Always Wanted a Brother",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-25-KTS",
+        "nominee": "Kiss the Sky",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-25-LAB",
+        "nominee": "Like a Bird",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-25-MC",
+        "nominee": "Mi Camino",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-25-NTL",
+        "nominee": "Never Too Late",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-25-PBP",
+        "nominee": "Piece by Piece",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-25-TIE",
+        "nominee": "Tie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-25-TJ",
+        "nominee": "The Journey",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-25-WB",
+        "nominee": "We're Back",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-25-WC",
+        "nominee": "Winter Coat",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARSONG-26": [
+      {
+        "ticker": "KXOSCARSONG-26-ASA",
+        "nominee": "As Alive As You Need Me To Be",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-DEA",
+        "nominee": "Dear Me",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-DRE",
+        "nominee": "Dream As One",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-DY",
+        "nominee": "Dying To Live",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-F1",
+        "nominee": "F1",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-GIR",
+        "nominee": "The Girl In The Bubble",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-GOL",
+        "nominee": "Golden",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-HIG",
+        "nominee": "Highest 2 Lowest",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-LAS",
+        "nominee": "Last Time (I Seen The Sun)",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-LIE",
+        "nominee": "I Lied To You",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-NOP",
+        "nominee": "No Place Like Home",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-OUR",
+        "nominee": "Our Love",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-SAL",
+        "nominee": "Salt Then Sour Then Sweet",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-SWE",
+        "nominee": "Sweet Dreams Of Joy",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSONG-26-TRA",
+        "nominee": "Train Dreams",
+        "status": "active"
+      }
+    ],
+    "OSCARSONG-24": [
+      {
+        "ticker": "OSCARSONG-24-IJK",
+        "nominee": "I'm Just Ken",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSONG-24-INWA",
+        "nominee": "It Never Went Away",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSONG-24-TFI",
+        "nominee": "The Fire Inside",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSONG-24-W",
+        "nominee": "Wahzhazhe (A Song for My People)",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSONG-24-WWIMF",
+        "nominee": "What Was I Made For?",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCARPIC": {
+    "KXOSCARPIC-25": [
+      {
+        "ticker": "KXOSCARPIC-25-A",
+        "nominee": "Anora",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-ACU",
+        "nominee": "A Complete Unknown",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-ARP",
+        "nominee": "A Real Pain",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-B",
+        "nominee": "Blitz",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-C",
+        "nominee": "Conclave",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-D",
+        "nominee": "Dune: Part Two",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-EP",
+        "nominee": "Emilia Perez",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-G",
+        "nominee": "Gladiator II",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-ISH",
+        "nominee": "I'm Still Here",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-NB",
+        "nominee": "Nickel Boys",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-S",
+        "nominee": "September 5",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-SS",
+        "nominee": "Sing Sing",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-TB",
+        "nominee": "The Brutalist",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-TPL",
+        "nominee": "The Piano Lesson",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-TRND",
+        "nominee": "The Room Next Door",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-TS",
+        "nominee": "The Substance",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-25-W",
+        "nominee": "Wicked",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARPIC-26": [
+      {
+        "ticker": "KXOSCARPIC-26-AHO",
+        "nominee": "A House of Dynamite",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-AVA",
+        "nominee": "Avatar: Fire and Ash",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-BUG",
+        "nominee": "Bugonia",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-F1",
+        "nominee": "F1",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-FRAN",
+        "nominee": "Frankenstein",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-HAM",
+        "nominee": "Hamnet",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-ITW",
+        "nominee": "It Was Just an Accident",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-JAY",
+        "nominee": "Jay Kelly",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-MAR",
+        "nominee": "Marty Supreme",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-NOO",
+        "nominee": "No Other Choice",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-ONE",
+        "nominee": "One Battle After Another",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-REN",
+        "nominee": "Rental Family",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-SEC",
+        "nominee": "The Secret Agent",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-SEN",
+        "nominee": "Sentimental Value",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-SIN",
+        "nominee": "Sinners",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-SPRI",
+        "nominee": "Springsteen: Deliver Me from Nowhere",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-TRA",
+        "nominee": "Train Dreams",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPIC-26-WIC",
+        "nominee": "Wicked: For Good",
+        "status": "finalized"
+      }
+    ],
+    "OSCARPIC-22": [
+      {
+        "ticker": "OSCARPIC-22-ALLEY",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-22-BFAST",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-22-CODA",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-22-DOG",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-22-DONT",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-22-DRIVE",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-22-DUNE",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-22-KING",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-22-PIZZA",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-22-WEST",
+        "nominee": "{}",
+        "status": "finalized"
+      }
+    ],
+    "OSCARPIC-23": [
+      {
+        "ticker": "OSCARPIC-23-ALL",
+        "nominee": "All Quiet on the Western Front",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-23-AVATAR",
+        "nominee": "Avatar: The Way of Water",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-23-BANSHEES",
+        "nominee": "The Banshees of Inisherin",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-23-ELVIS",
+        "nominee": "Elvis",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-23-EVERYTHING",
+        "nominee": "Everything Everywhere All at Once",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-23-FABELMANS",
+        "nominee": "The Fabelmans",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-23-TAR",
+        "nominee": "T\u00e1r",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-23-TOP",
+        "nominee": "Top Gun: Maverick",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-23-TRIANGLE",
+        "nominee": "Triangle of Sadness",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-23-WOMEN",
+        "nominee": "Women Talking",
+        "status": "finalized"
+      }
+    ],
+    "OSCARPIC-24": [
+      {
+        "ticker": "OSCAR",
+        "nominee": "Poor Things",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-24-AOAF",
+        "nominee": "Anatomy of a Fall",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-24-B",
+        "nominee": "Barbie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-24-KOTFM",
+        "nominee": "Killers of the Flower Moon",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-24-M",
+        "nominee": "Maestro",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-24-MD",
+        "nominee": "May December",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-24-O",
+        "nominee": "Oppenheimer",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-24-PL",
+        "nominee": "Past Lives",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-24-S",
+        "nominee": "Saltburn",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-24-SMATSV",
+        "nominee": "Spider-Man: Across the Spider-Verse",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-24-TCP",
+        "nominee": "The Color Purple",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-24-TH",
+        "nominee": "The Holdovers",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-24-TZOI",
+        "nominee": "The Zone of Interest",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPIC-AF",
+        "nominee": "American Fiction",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCARPROD": {
+    "KXOSCARPROD-25": [
+      {
+        "ticker": "KXOSCARPROD-25-B",
+        "nominee": "Blitz",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-25-C",
+        "nominee": "Conclave",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-25-D",
+        "nominee": "Dune: Part Two",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-25-EP",
+        "nominee": "Emilia Perez",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-25-G",
+        "nominee": "Gladiator II",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-25-M",
+        "nominee": "Maria",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-25-N",
+        "nominee": "Nosferatu",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-25-TB",
+        "nominee": "The Brutalist",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-25-TIE",
+        "nominee": "Tie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-25-W",
+        "nominee": "Wicked",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARPROD-26": [
+      {
+        "ticker": "KXOSCARPROD-26-AVA",
+        "nominee": "Avatar: Fire and Ash",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-BUG",
+        "nominee": "Bugonia",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-FAN",
+        "nominee": "The Fantastic Four: First Steps",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-FRA",
+        "nominee": "Frankenstein",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-HAM",
+        "nominee": "Hamnet",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-HED",
+        "nominee": "Hedda",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-KIS",
+        "nominee": "Kiss of the Spider Woman",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-MAR",
+        "nominee": "Marty Supreme",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-NOU",
+        "nominee": "Nouvelle Vague",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-ONE",
+        "nominee": "One Battle After Another",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-PHO",
+        "nominee": "The Phoenician Scheme",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-SIN",
+        "nominee": "Sinners",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-SPR",
+        "nominee": "Springsteen: Deliver Me from Nowhere",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-WAK",
+        "nominee": "Wake Up Dead Man",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARPROD-26-WIC",
+        "nominee": "Wicked: For Good",
+        "status": "finalized"
+      }
+    ],
+    "OSCARPROD-24": [
+      {
+        "ticker": "OSCARPROD-24-B",
+        "nominee": "Barbie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPROD-24-KOTFM",
+        "nominee": "Killers of the Flower Moon",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPROD-24-N",
+        "nominee": "Napoleon",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPROD-24-O",
+        "nominee": "Oppenheimer",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARPROD-24-PT",
+        "nominee": "Poor Things",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCARSOUND": {
+    "KXOSCARSOUND-25": [
+      {
+        "ticker": "KXOSCARSOUND-25-ACU",
+        "nominee": "A Complete Unknown",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-25-B",
+        "nominee": "Blitz",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-25-C",
+        "nominee": "Conclave",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-25-D",
+        "nominee": "Dune: Part Two",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-25-EP",
+        "nominee": "Emilia Perez",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-25-F",
+        "nominee": "Furiosa: A Mad Max Saga",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-25-G",
+        "nominee": "Gladiator II",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-25-T",
+        "nominee": "Twisters",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-25-TB",
+        "nominee": "The Brutalist",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-25-TIE",
+        "nominee": "Tie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-25-TS",
+        "nominee": "The Substance",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-25-TWR",
+        "nominee": "The Wild Robot",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-25-W",
+        "nominee": "Wicked",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARSOUND-26": [
+      {
+        "ticker": "KXOSCARSOUND-26-AVA",
+        "nominee": "Avatar: Fire and Ash",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-26-F1",
+        "nominee": "F1",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSOUND-26-FRA",
+        "nominee": "Frankenstein",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSOUND-26-MIS",
+        "nominee": "Mission: Impossible \u2013 The Final Reckoning",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-26-ONE",
+        "nominee": "One Battle after Another",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSOUND-26-SIN",
+        "nominee": "Sinners",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSOUND-26-SIR",
+        "nominee": "Sir\u00e2t",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSOUND-26-SPR",
+        "nominee": "Springsteen: Deliver Me from Nowhere",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-26-SUP",
+        "nominee": "Superman",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSOUND-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSOUND-26-WIC",
+        "nominee": "Wicked: For Good",
+        "status": "finalized"
+      }
+    ],
+    "OSCARSOUND-24": [
+      {
+        "ticker": "OSCARSOUND-24-M",
+        "nominee": "Maestro",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSOUND-24-MI",
+        "nominee": "Mission: Impossible -- Dead Reckoning",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSOUND-24-O",
+        "nominee": "Oppenheimer",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSOUND-24-TC",
+        "nominee": "The Creator",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSOUND-24-TZOI",
+        "nominee": "The Zone of Interest",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCARSUPACTO": {
+    "KXOSCARSUPACTO-25": [
+      {
+        "ticker": "KXOSCARSUPACTO-25-CM",
+        "nominee": "Clarence Maclin",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-25-DW",
+        "nominee": "Denzel Washington",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-25-EN",
+        "nominee": "Edward Norton",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-25-GP",
+        "nominee": "Guy Pearce",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-25-JL",
+        "nominee": "John Lithgow",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-25-JS",
+        "nominee": "Jeremy Strong",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-25-KC",
+        "nominee": "Kieran Culkin",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-25-ME",
+        "nominee": "Mark Eydelshteyn",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-25-PS",
+        "nominee": "Peter Sarsgaard",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-25-SLJ",
+        "nominee": "Samuel L Jackson",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-25-ST",
+        "nominee": "Stanley Tucci",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-25-TIE",
+        "nominee": "Tie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-25-YB",
+        "nominee": "Yura Borisov",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARSUPACTO-26": [
+      {
+        "ticker": "KXOSCARSUPACTO-26-ADA",
+        "nominee": "Adam Sandler",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-AKI",
+        "nominee": "Akira Emoto",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-AND",
+        "nominee": "Andrew Garfield",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-BEN",
+        "nominee": "Benicio del Toro",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-DEL",
+        "nominee": "Delroy Lindo",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-DIE",
+        "nominee": "Diego Luna",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-JAC",
+        "nominee": "Jacob Elordi",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-JACK",
+        "nominee": "Jack O'Connell",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-JER",
+        "nominee": "Jeremy Strong",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-JON",
+        "nominee": "Jonathan Bailey",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-MIL",
+        "nominee": "Miles Caton",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-PAU",
+        "nominee": "Paul Mescal",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-PET",
+        "nominee": "Peter Dinklage",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-SEA",
+        "nominee": "Sean Bean",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-SEAN",
+        "nominee": "Sean Penn",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-STE",
+        "nominee": "Stellan Skarsgard",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSUPACTO-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      }
+    ],
+    "OSCARSUPACTO-22": [
+      {
+        "ticker": "OSCARSUPACTO-22-CH",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-22-JP",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-22-JS",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-22-KS",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-22-TK",
+        "nominee": "{}",
+        "status": "finalized"
+      }
+    ],
+    "OSCARSUPACTO-23": [
+      {
+        "ticker": "OSCARSUPACTO-23-BG",
+        "nominee": "Brendan Gleeson",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-23-BK",
+        "nominee": "Barry Keoghan",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-23-BTH",
+        "nominee": "Brian Tyree Henry",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-23-JH",
+        "nominee": "Judd Hirsch",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-23-KHQ",
+        "nominee": "Ke Huy Quan",
+        "status": "finalized"
+      }
+    ],
+    "OSCARSUPACTO-24": [
+      {
+        "ticker": "OSCARSUPACTO-24-CD",
+        "nominee": "Colman Domingo",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-24-CM",
+        "nominee": "Charles Melton",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-24-DS",
+        "nominee": "Dominic Sessa",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-24-JM",
+        "nominee": "John Magaro",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-24-MR",
+        "nominee": "Mark Ruffalo",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-24-RD",
+        "nominee": "Robert DeNiro",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-24-RDJ",
+        "nominee": "Robert Downey Jr.",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-24-RG",
+        "nominee": "Ryan Gosling",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-24-SKB",
+        "nominee": "Sterling K. Brown",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTO-24-WD",
+        "nominee": "Willem Dafoe",
+        "status": "finalized"
+      }
+    ]
+  },
+  "KXOSCARSUPACTR": {
+    "KXOSCARSUPACTR-25": [
+      {
+        "ticker": "KXOSCARSUPACTR-25-AET",
+        "nominee": "Aunjanue Ellis-Taylor",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-25-AG",
+        "nominee": "Ariana Grande",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-25-DD",
+        "nominee": "Danielle Deadwyler",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-25-FJ",
+        "nominee": "Felicity Jones",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-25-IR",
+        "nominee": "Isabella Rossellini",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-25-JC",
+        "nominee": "Joan Chen",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-25-MB",
+        "nominee": "Monica Barbaro",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-25-MQ",
+        "nominee": "Margaret Qualley",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-25-SG",
+        "nominee": "Selena Gomez",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-25-SR",
+        "nominee": "Saoirse Ronan",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-25-TC",
+        "nominee": "Toni Collette",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-25-TIE",
+        "nominee": "Tie",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-25-ZS",
+        "nominee": "Zoe Saldana",
+        "status": "finalized"
+      }
+    ],
+    "KXOSCARSUPACTR-26": [
+      {
+        "ticker": "KXOSCARSUPACTR-26-AMY",
+        "nominee": "Amy Madigan",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-ARI",
+        "nominee": "Ariana Grande",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-AYO",
+        "nominee": "Ayo Edebiri",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-CHA",
+        "nominee": "Chase Infiniti",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-ELL",
+        "nominee": "Elle Fanning",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-EMI",
+        "nominee": "Emily Blunt",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-GLE",
+        "nominee": "Glenn Close",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-GWE",
+        "nominee": "Gwyneth Paltrow",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-ING",
+        "nominee": "Inga Ibsdotter Lilleaas",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-JEN",
+        "nominee": "Jennifer Lopez",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-LAU",
+        "nominee": "Laura Dern",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-MAR",
+        "nominee": "Mari Yamamoto",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-ODE",
+        "nominee": "Odessa A'zion",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-REB",
+        "nominee": "Rebecca Ferguson",
+        "status": "finalized"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-TEY",
+        "nominee": "Teyana Taylor",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-TIE",
+        "nominee": "Tie",
+        "status": "active"
+      },
+      {
+        "ticker": "KXOSCARSUPACTR-26-WUN",
+        "nominee": "Wunmi Mosaku",
+        "status": "active"
+      }
+    ],
+    "OSCARSUPACTR-22": [
+      {
+        "ticker": "OSCARSUPACTR-22-AD",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-22-AE",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-22-JB",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-22-JD",
+        "nominee": "{}",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-22-KD",
+        "nominee": "{}",
+        "status": "finalized"
+      }
+    ],
+    "OSCARSUPACTR-23": [
+      {
+        "ticker": "OSCARSUPACTR-23-AB",
+        "nominee": "Angela Bassett",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-23-HC",
+        "nominee": "Hong Chau",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-23-JLC",
+        "nominee": "Jamie Lee Curtis",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-23-KC",
+        "nominee": "Kerry Condon",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-23-SH",
+        "nominee": "Stephanie Hsu",
+        "status": "finalized"
+      }
+    ],
+    "OSCARSUPACTR-24": [
+      {
+        "ticker": "OSCARSUPACTR-24-AF",
+        "nominee": "America Ferrera",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-24-DB",
+        "nominee": "Danielle Brooks",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-24-DJR",
+        "nominee": "Da''Vine Joy Randolph",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-24-EB",
+        "nominee": "Emily Blunt",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-24-JF",
+        "nominee": "Jodie Foster",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-24-JM",
+        "nominee": "Julianne Moore",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-24-LG",
+        "nominee": "Lily Gladstone",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-24-PC",
+        "nominee": "Pen\u00e9lope Cruz",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-24-RP",
+        "nominee": "Rosamund Pike",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-24-TPH",
+        "nominee": "Taraji P. Henson",
+        "status": "finalized"
+      },
+      {
+        "ticker": "OSCARSUPACTR-24-VD",
+        "nominee": "Viola Davis",
+        "status": "finalized"
+      }
+    ]
+  }
+}

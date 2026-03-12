@@ -1,0 +1,71 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "oscar_prediction_market"
+version = "0.1.0"
+description = "Predicting Oscar winners and trading prediction markets with ML"
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [{ name = "Peiqi Wang", email = "peiqi1122@gmail.com" }]
+dependencies = [
+    "requests",
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "diskcache",
+    "beautifulsoup4",
+    "lxml",
+    "thefuzz",
+    "python-levenshtein",
+    "scikit-learn",
+    "pydantic",
+    "xgboost",
+    "cryptography",
+    "statsmodels",
+    "python-dotenv",
+    "pyarrow",
+]
+
+[project.optional-dependencies]
+test = ["pytest", "pytest-cov"]
+lint = ["ruff"]
+types = ["mypy", "pandas-stubs", "types-tqdm", "scikit-learn-stubs", "joblib-stubs", "scipy-stubs"]
+
+[project.urls]
+Homepage = "https://github.com/tt6746690/oscar_prediction_market"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "W", "F", "I", "B", "C4", "UP"]
+ignore = ["E501", "B008", "C901"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short -m 'not network'"
+markers = [
+    "network: tests that make real network calls (Wikipedia scraping). Run with: pytest -m network",
+]
+
+[tool.mypy]
+python_version = "3.12"
+
+[[tool.mypy.overrides]]
+module = [
+    "diskcache.*",
+    "thefuzz.*",
+    "xgboost.*",
+    "statsmodels.*",
+]
+ignore_missing_imports = true

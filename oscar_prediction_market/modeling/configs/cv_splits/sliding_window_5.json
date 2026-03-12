@@ -1,0 +1,4 @@
+{
+  "strategy_type": "sliding_window",
+  "train_window_size": 5
+}
