@@ -4,7 +4,7 @@
 
 Data-driven predictions for the 98th Academy Awards (March 15, 2026), using a precursor-award model trained on 26 years of Oscar data (2000–2025). The model tracks which nominees won which precursor awards (SAG, BAFTA, Golden Globes, Critics Choice, DGA, PGA, WGA, ASC, Annie) and uses an ensemble of 4 statistical models to predict Oscar winners.
 
-For the companion Reddit post, see [REDDIT_POST.md](REDDIT_POST.md).
+For the companion Reddit post, see [REDDIT_POST.md](REDDIT_POST.md) ([live on r/Oscars](https://www.reddit.com/r/Oscars/comments/1rt6fu1/ml_predictions_for_oscars_2026_here_are_the_picks/)).
 
 ## Table of Contents
 

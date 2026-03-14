@@ -51,6 +51,7 @@ The model currently disagrees with the market most on these nominees:
 Only 3 of 9 categories pass the 20% edge threshold — the remaining 6 sit in
 cash. Full report with all categories, bet sizing, and scenario P&L:
 [2026-03-11 taker report](oscar_prediction_market/one_offs/d20260224_live_2026/reports/2026-03-11T22:21_edge_20_taker.md).
+For a more conversational write-up, see the [Reddit post](https://www.reddit.com/r/Oscars/comments/1rt6fu1/ml_predictions_for_oscars_2026_here_are_the_picks/) and its [backing analysis](oscar_prediction_market/one_offs/d20260313_reddit_predictions_post/).
 
 ## Quick Start
 
