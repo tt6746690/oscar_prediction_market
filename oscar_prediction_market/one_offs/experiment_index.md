@@ -7,6 +7,11 @@ one-off directory with a detailed README, reproduction scripts, and results.
 
 ---
 
+**[d20260313_reddit_predictions_post](d20260313_reddit_predictions_post/)** (2026-03-13)
+- Reddit-style Oscar predictions post backed by model data for all 9 categories.
+- Conversational write-up with links to precursor breakdowns, historical analogs, and model agreement analysis.
+- Biggest contrarian calls: Amy Madigan for Supporting Actress (model 88% vs market 31%), Chalamet over MBJ for Best Actor (model 52% vs market 29%).
+
 **[d20260310_best_actor_diagnostics](d20260310_best_actor_diagnostics/)** (2026-03-10)
 - Deep diagnostic on Best Actor: model says Chalamet (51%) > MBJ (21%); market says MBJ (61%) > Chalamet (29%). All 5 model sub-components favor Chalamet.
 - Historical base rate: 2 precursor wins → 33% Oscar win rate vs 1 win → 10%. Model's 2.4× ratio is consistent with base rates.
